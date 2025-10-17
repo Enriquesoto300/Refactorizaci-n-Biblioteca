@@ -1,4 +1,4 @@
-# Refactorizaci-n-Biblioteca# Sistema de Gestión de Biblioteca con Autenticación
+# Sistema de Gestión de Biblioteca con Autenticación
 
 Este es un sistema de gestión para una biblioteca desarrollado en **Python**. Permite administrar libros, usuarios y préstamos a través de una interfaz de línea de comandos (CLI).  
 La aplicación cuenta con un sistema de autenticación seguro basado en roles y utiliza **hashing** para el almacenamiento de contraseñas.
